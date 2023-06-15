@@ -1,2 +1,2 @@
-# even-or-odd
-binary classification model for even or odd numbers
+# basic-svm_model
+binary classification model for positive or negative numbers.
